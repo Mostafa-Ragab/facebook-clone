@@ -15,7 +15,7 @@ The objective of this project is to build a minimal responsive facebook clone ve
 
 ![FaceBook Clone Screenshot](./docs/facebook-clone-animate.gif)
 
-## 🌐 [Live Preview](https://facebook-clone-52490.firebaseapp.com/)
+## 🌐 [Live Preview](https://facebook-clone-a367a.web.app/)
 
 ## 🛠️ Tech stack
 
