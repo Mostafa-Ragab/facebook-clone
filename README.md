@@ -1,3 +1,15 @@
+FACEBOOK CLONE
+Project Description
+The objective of this project is to build a minimal responsive facebook clone version come with the following features:
+
+Register new account
+User authentication with Google account
+Writing posts and comments (text & image)
+Liking posts and comments
+Sending / accepting / canceling friend requests
+Notifications for new friend request.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
